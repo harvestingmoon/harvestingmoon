@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @harvestingmoon 
-- Interested in Web Dev, Business Analytics and Machine Learning 
-- I suck when it comes to coding :( 
-- I code in Java,Python,HTML, CSS & SQL! 
+- Interested in Web Dev, Analytics, Machine Learning and creating Telegram Bots  
+- 
