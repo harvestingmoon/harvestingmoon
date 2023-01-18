@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @harvestingmoon 
-- Interested in Web Dev, Analytics, Machine Learning and creating Telegram Bots  
+- Interested in Data Analytics, Machine Learning and creating Telegram Bots  
 
