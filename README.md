@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @harvestingmoon 
+- 👋 Hi, I’m @harvestingmoon
 
-Programmer & Computer vision enthusiast. I also make telegram bots in my spare time.
+Deep learning and Computer vision enthusiast. I also make telegram bots for fun.
