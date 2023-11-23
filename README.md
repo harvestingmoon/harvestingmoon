@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Wen Yeong otherwise known as @harvestingmoon.
+👋 Hi, I’m Wen Yeong otherwise known as @harvestingmoon.
   
-I like to code for fun ... 
+Current Undergraduate studying Business Analytics @ NUS :) 
+
+=* don't really know what type here but let's just say I like coding & exploring algorithms (although they can be a pain in the ass to debug)
