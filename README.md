@@ -1,9 +1,8 @@
 👋 Hi, I’m Wen Yeong otherwise known as @harvestingmoon.
   
-Current Undergraduate @ NUS who tweaks about anything and everything related to ML :) 
+Current Undergraduate @ NUS who tweaks about anything and everything related to ML & Networks , but is GPU-Poor :C 
 
-=* don't really know what to type here but let's just say I like coding & exploring algorithms (although they can be a pain in the ass to debug and understand...)
-
+I like building stuff but stuff breaks
 
 More about me:
 https://www.datascienceportfol.io/harvestingmoon
