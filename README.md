@@ -2,4 +2,4 @@
 
 I like building stuff but stuff breaks
 
-[More about me](https://docs.google.com/document/d/1jVQHXpKSjbZtk5ABYkevJ6s0hl21Tb0E/edit?usp=sharing&ouid=100899268281499724383&rtpof=true&sd=true)
+[More about me](https://drive.google.com/file/d/1txWH2k6dhdQWQcTBRy_oL6qEDdR7N4kH/view?usp=sharing)
