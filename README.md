@@ -2,10 +2,11 @@
 
 I like building stuff but stuff breaks for some reason
 
-currently: 
+I am currently: 
 - Project Intern @ TikTok (AI Data & Eco Operations Team)
+- Freelance Software Engineer @ Tan Tock Seng Hospital (also AI related but for evaluating nurses)
 
-past: 
+I used to be: 
 - Data Science & AI Intern @ Ministry Of Manpower (AI Bots)
 - Computer Vision & Video Analytics Intern @ Defence Science & Technology Agency
 
