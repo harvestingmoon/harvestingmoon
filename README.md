@@ -1,7 +1,6 @@
 👋 Hi, I’m Wen Yeong otherwise known as @harvestingmoon.
 
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
 passionate builder and ML enthusiast :) 
