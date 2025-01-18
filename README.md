@@ -6,7 +6,7 @@
 passionate builder and ML enthusiast :) 
 
 I am currently: 
-- Freelance Software Engineer @ Tan Tock Seng Hospital (also AI related but for evaluating nurses)
+- Project Intern @ TikTok (Trust & Safety)
 
 I used to be: 
 - Data Science & AI Intern @ Ministry Of Manpower (AI Bots)
