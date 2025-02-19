@@ -6,7 +6,7 @@
 passionate builder and ML enthusiast :) 
 
 I am currently: 
-- Project Intern @ TikTok (Trust & Safety)
+- AI Intern @ TikTok (Trust & Safety)
 
 I used to be: 
 - Data Science & AI Intern @ Ministry Of Manpower (AI Bots)
