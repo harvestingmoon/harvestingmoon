@@ -5,6 +5,9 @@
 
 passionate builder and ML enthusiast :) 
 
+I will be at:
+  ????
+  
 I am currently: 
 - AI Intern @ TikTok (Trust & Safety)
 
