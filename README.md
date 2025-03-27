@@ -9,7 +9,7 @@ I will be at:
   ????
   
 I am currently: 
-- Project AI Intern @ TikTok (Trust & Safety)
+- PM AI Intern @ TikTok (Trust & Safety)
 
 I used to be: 
 - Data Science & AI Intern @ Ministry Of Manpower (AI Bots)
