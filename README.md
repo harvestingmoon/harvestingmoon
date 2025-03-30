@@ -6,7 +6,7 @@
 passionate builder and ML enthusiast :) 
 
 I will be at: 
-- Machine Learning Engineer Intern @ TikTok (Data Search Team)
+- Machine Learning Engineer Intern @ TikTok (Vertical Search)
   
 I am currently: 
 - PM AI Intern @ TikTok (Trust & Safety)
