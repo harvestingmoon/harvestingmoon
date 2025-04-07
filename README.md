@@ -5,8 +5,8 @@
 
 passionate builder and ML enthusiast :) 
 
-I will be at: 
-???
+I will be: 
+- Machine Learning Engineer Intern @ Bytedance (TT-Vertical Search)
   
 I am currently: 
 - PM AI Intern @ TikTok (Trust & Safety)
