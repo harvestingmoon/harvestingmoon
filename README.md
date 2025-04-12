@@ -1,4 +1,4 @@
-👋 Hi, I’m Wen Yeong otherwise known as @harvestingmoon.
+👋 Hi, I'm @harvestingmoon.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -17,4 +17,6 @@ I used to be:
 
 If you would like to connect:
 email: lwenyeong21@gmail.com 
+
+
 
