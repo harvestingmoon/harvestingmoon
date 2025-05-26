@@ -2,7 +2,7 @@
  
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-Passionate builder and Machine Learning enthusiast focused on creating impactful AI solutions.
+I like building and fiddling with things related to machine learning and parallel stuff
 
 
 my work experience:
