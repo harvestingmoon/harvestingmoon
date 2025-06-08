@@ -4,8 +4,9 @@
 
 I like building and fiddling with things related to machine learning and parallel stuff
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvestingmoon&layout=compact&hide=jupyter%20notebook&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harvestingmoon&layout=compact&hide=jupyter%20notebook)
 
+![](https://leetcard.jacoblin.cool/direct11?ext=activity&theme=unicorn)
 
 📧 [lwenyeong21@gmail.com](mailto:lwenyeong21@gmail.com) | if you like to discuss anything related to coding / professional stuff in general
 
